@@ -1,0 +1,35 @@
+{
+    "title": "Salama Cascade",
+    "description": "WIP",
+    "biome": "Pine Forest",
+    "roads": "Dirt",
+    "authors": "birdman",
+    "defaultSpawnPointName": "DefaultSpawn",
+    "size": [
+        4096,
+        4096
+    ],
+    "previews": ["preview.jpg"],
+    "spawnPoints": [
+        {
+            "translationId": "Northeast Corner",
+            "objectname": "SpawnSphere_NE",
+            "preview": "preview.jpg"
+        },
+        {
+            "translationId": "Center Road",
+            "objectname": "SpawnSphere_center_road",
+            "preview": "preview.jpg"
+        },
+        {
+            "translationId": "Lower Parking Lot",
+            "objectname": "SpawnSphere_lower_parking",
+            "preview": "preview.jpg"
+        },
+        {
+            "translationId": "Upper Parking Lot",
+            "objectname": "SpawnSphere_upper_parking",
+            "preview": "preview.jpg"
+        }
+    ]
+}

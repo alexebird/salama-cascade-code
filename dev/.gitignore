@@ -1,0 +1,12 @@
+Caches
+build
+blender_out
+build_gaea
+build_gaea_stage2
+build_blender
+build_geoscatter
+*.blend
+*.blend1
+gen
+tmp
+white_masks

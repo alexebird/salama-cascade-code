@@ -1,0 +1,65 @@
+{
+    "ECA_road_edge_grass": {
+        "name": "ECA_road_edge_grass",
+        "mapTo": "ECA_road_edge_grass",
+        "class": "Material",
+        "persistentId": "51c6fcb7-3bc0-4846-979b-7e93a0e67833",
+        "Stages": [
+            {
+                "ambientOcclusionMap": "/levels/salama_cascade/art/road/t_eca_asphalt_grass_edge_ao.data.png",
+                "baseColorFactor": [
+                    0.999994993,
+                    1,
+                    0.999989986,
+                    0.899999976
+                ],
+                "baseColorMap": "/levels/salama_cascade/art/road/t_eca_asphalt_grass_edge_b.color.png",
+                "detailNormalMap": "/levels/salama_cascade/art/road/t_asphalt_edge_brake_up_01_nm.normal.png",
+                "detailNormalMapStrength": 2,
+                "detailScale": [
+                    0.600000024,
+                    0.200000003
+                ],
+                "normalMap": "/levels/salama_cascade/art/road/t_eca_asphalt_grass_edge_nm.normal.png",
+                "opacityMap": "/levels/salama_cascade/art/road/t_eca_asphalt_grass_edge_o.data.png",
+                "roughnessMap": "/levels/salama_cascade/art/road/t_eca_asphalt_grass_edge_r.data.png",
+                "specular": [
+                    0.545098007,
+                    0.545098007,
+                    0.545098007,
+                    1
+                ]
+            },
+            {
+                "baseColorFactor": null,
+                "detailNormalMapStrength": null,
+                "detailScale": null,
+                "specular": [
+                    0.521569014,
+                    0.521569014,
+                    0.521569014,
+                    0.00800000038
+                ]
+            },
+            {
+                "baseColorFactor": null,
+                "detailNormalMapStrength": null,
+                "detailScale": null,
+                "specular": null
+            },
+            {
+                "baseColorFactor": null,
+                "detailNormalMapStrength": null,
+                "detailScale": null,
+                "specular": null
+            }
+        ],
+        "annotation": "GRASS",
+        "materialTag0": "RoadAndPath",
+        "materialTag1": "beamng",
+        "specularStrength0": "0.490196",
+        "translucent": true,
+        "translucentZWrite": true,
+        "version": 1.5
+    }
+}

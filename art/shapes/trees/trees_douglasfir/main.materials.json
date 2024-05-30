@@ -1,0 +1,181 @@
+{
+    "BNGGrass": {
+        "name": "BNGGrass",
+        "mapTo": "unmapped_mat",
+        "class": "Material",
+        "persistentId": "ae05a617-b1cf-47c6-9c31-510acf631170",
+        "Stages": [
+            {
+                "colorMap": "/levels/salama_cascade/art/shapes/groundcover/t_grass_01_d.color.png",
+                "diffuseColor": [
+                    0.996078491,
+                    0.996078491,
+                    0.996078491,
+                    1
+                ],
+                "normalMap": "/levels/salama_cascade/art/shapes/groundcover/t_grass_01_nm.normal.png",
+                "specular": [
+                    0.992156923,
+                    0.992156923,
+                    0.992156923,
+                    1
+                ],
+                "specularMap": "/levels/salama_cascade/art/shapes/groundcover/t_grass_01_s.color.png",
+                "useAnisotropic": true
+            },
+            {},
+            {},
+            {}
+        ],
+        "alphaRef": 60,
+        "alphaTest": true,
+        "annotation": "NATURE",
+        "doubleSided": true,
+        "materialTag0": "beamng",
+        "materialTag1": "vegetation",
+        "materialTag2": "vegetation",
+        "materialTag3": "Natural",
+        "materialTag4": "east_coast_usa",
+        "translucentBlendOp": "None"
+    },
+    "fir_bark": {
+        "name": "fir_bark",
+        "mapTo": "fir_bark",
+        "class": "Material",
+        "persistentId": "ec19416c-3710-48b4-9abc-09f0b46a7b2b",
+        "Stages": [
+            {
+                "ambientOcclusionMap": "/levels/salama_cascade/art/shapes/trees/trees_douglasfir/t_fir_bark_ao.data.png",
+                "baseColorFactor": [
+                    0.726626992,
+                    0.726619005,
+                    0.726619005,
+                    1
+                ],
+                "baseColorMap": "/levels/salama_cascade/art/shapes/trees/trees_douglasfir/t_fir_bark_b.color.png",
+                "detailScale": [
+                    0.100000001,
+                    0.100000001
+                ],
+                "normalMap": "/levels/salama_cascade/art/shapes/trees/trees_douglasfir/t_fir_bark_nm.normal.png",
+                "roughnessMap": "/levels/salama_cascade/art/shapes/trees/trees_douglasfir/t_fir_bark_r.data.png"
+            },
+            {},
+            {},
+            {}
+        ],
+        "annotation": "NATURE",
+        "groundType": "WOOD",
+        "materialTag0": "vegetation",
+        "materialTag1": "beamng",
+        "materialTag2": "Natural",
+        "specularStrength0": "0.294118",
+        "version": 1.5
+    },
+    "fir_leaves_02": {
+        "name": "fir_leaves_02",
+        "mapTo": "fir_leaves_02",
+        "class": "Material",
+        "persistentId": "11a9f288-39c2-429f-8f61-6072c6838a26",
+        "Stages": [
+            {
+                "ambientOcclusionMap": "/levels/salama_cascade/art/shapes/trees/trees_douglasfir/t_fir_leaves_02_ao.data.png",
+                "baseColorFactor": [
+                    0.996078491,
+                    0.996078491,
+                    0.996078491,
+                    1
+                ],
+                "baseColorMap": "/levels/salama_cascade/art/shapes/trees/trees_douglasfir/t_fir_leaves_02_b.color.png",
+                "detailNormalMapStrength": 5,
+                "detailScale": [
+                    1,
+                    1
+                ],
+                "normalMap": "/levels/salama_cascade/art/shapes/trees/trees_douglasfir/t_fir_leaves_02_nm.normal.png",
+                "opacityMap": "/levels/salama_cascade/art/shapes/trees/trees_douglasfir/t_fir_leaves_o.data.png",
+                "roughnessMap": "/levels/salama_cascade/art/shapes/trees/trees_douglasfir/t_fir_leaves_02_r.data.png",
+                "specular": [
+                    0.992156982,
+                    0.992156982,
+                    0.992156982,
+                    1
+                ]
+            },
+            {},
+            {},
+            {}
+        ],
+        "alphaRef": 80,
+        "alphaTest": true,
+        "annotation": "NATURE",
+        "doubleSided": true,
+        "groundType": "LEAVES_THIN",
+        "materialTag0": "beamng",
+        "materialTag1": "vegetation",
+        "materialTag2": "Natural",
+        "materialTag3": "vegetation",
+        "specularStrength0": "0.294118",
+        "version": 1.5
+    },
+    "fir_leaves_dead": {
+        "name": "fir_leaves_dead",
+        "mapTo": "fir_leaves_dead",
+        "class": "Material",
+        "persistentId": "b0e0b909-c501-48f6-8e7b-04621f622951",
+        "Stages": [
+            {
+                "ambientOcclusionMap": "/levels/salama_cascade/art/shapes/trees/trees_douglasfir/t_fir_leaves_dead_ao.data.png",
+                "baseColorFactor": [
+                    0.996078491,
+                    0.996078491,
+                    0.996078491,
+                    1
+                ],
+                "baseColorMap": "/levels/salama_cascade/art/shapes/trees/trees_douglasfir/t_fir_leaves_dead_b.color.png",
+                "detailNormalMapStrength": 5,
+                "detailScale": [
+                    1,
+                    1
+                ],
+                "normalMap": "/levels/salama_cascade/art/shapes/trees/trees_douglasfir/t_fir_leaves_dead_nm.normal.png",
+                "opacityMap": "/levels/salama_cascade/art/shapes/trees/trees_douglasfir/t_fir_leaves_dead_o.data.png",
+                "roughnessMap": "/levels/salama_cascade/art/shapes/trees/trees_douglasfir/t_fir_leaves_dead_r.data.png",
+                "specular": [
+                    0.992156982,
+                    0.992156982,
+                    0.992156982,
+                    1
+                ]
+            },
+            {},
+            {},
+            {}
+        ],
+        "alphaRef": 76,
+        "alphaTest": true,
+        "annotation": "NATURE",
+        "doubleSided": true,
+        "groundType": "LEAVES_THIN",
+        "materialTag0": "beamng",
+        "materialTag1": "vegetation",
+        "materialTag2": "Natural",
+        "materialTag3": "vegetation",
+        "specularStrength0": "0.294118",
+        "version": 1.5
+    },
+    "leaves_thin": {
+        "name": "leaves_thin",
+        "mapTo": "leaves_thin",
+        "class": "Material",
+        "persistentId": "448ab855-cb5c-4d5b-a0a5-f5836b49b696",
+        "Stages": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "groundDepth": 0.800000012,
+        "groundType": "leaves_thin"
+    }
+}

@@ -1,0 +1,24 @@
+{
+  "heightMapPath":"/levels/salama_cascade/art/terrains/t_terrain_base_h.png",
+  "heightScale":400,
+  "holeMapPath":"",
+  "name":"theTerrain",
+  "opacityMaps":[
+    "/levels/salama_cascade/art/terrains/theTerrain_layer_0_Grass.png",
+    "/levels/salama_cascade/art/terrains/theTerrain_layer_1_Dirt.png",
+    "/levels/salama_cascade/art/terrains/theTerrain_layer_2_asphalt.png",
+    "/levels/salama_cascade/art/terrains/theTerrain_layer_3_asphalt2.png",
+    "/levels/salama_cascade/art/terrains/theTerrain_layer_4_Dirt.png",
+    "/levels/salama_cascade/art/terrains/theTerrain_layer_6_dirt_loose_dusty.png",
+    "/levels/salama_cascade/art/terrains/theTerrain_layer_7_dirt_loose.png",
+    "/levels/salama_cascade/art/terrains/theTerrain_layer_9_sand.png",
+    "/levels/salama_cascade/art/terrains/theTerrain_layer_5_RockyDirt.png"
+  ],
+  "pos":{
+    "x":-2048,
+    "y":-2048,
+    "z":0
+  },
+  "squareSize":1,
+  "type":"TerrainData"
+}

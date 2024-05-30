@@ -1,0 +1,10 @@
+{
+  "tree_douglasfir_large_a": {
+    "name": "tree_douglasfir_large_a",
+    "internalName": "tree_douglasfir_large_a",
+    "class": "TSForestItemData",
+    "persistentId": "29af7dfc-9983-4d6b-929b-a83a9ea8dd38",
+    "__parent": "DataBlockGroup",
+    "shapeFile": "/levels/salama_cascade/art/shapes/tree_douglasfir_large_a.dae"
+  }
+}

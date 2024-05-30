@@ -1,0 +1,22 @@
+{
+  "binaryFormat": "version(char), size(unsigned int), heightMap(heightMapSize * heightMapItemSize), layerMap(layerMapSize * layerMapItemSize), layerTextureMap(layerMapSize * layerMapItemSize), materialNames",
+  "datafile": "/levels/salama_cascade/theTerrain.ter",
+  "heightMapItemSize": 2,
+  "heightMapSize": 16777216,
+  "heightmapImage": "/levels/salama_cascade/theTerrain.terrainheightmap.png",
+  "layerMapItemSize": 1,
+  "layerMapSize": 16777216,
+  "materials": [
+    "Grass",
+    "Dirt",
+    "asphalt",
+    "asphalt2",
+    "Dirt",
+    "dirt_loose_dusty",
+    "dirt_loose",
+    "sand",
+    "RockyDirt"
+  ],
+  "size": 4096,
+  "version": 9
+}
